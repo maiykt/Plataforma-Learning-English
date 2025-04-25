@@ -1,0 +1,51 @@
+﻿@model Database.Models.User
+
+
+<link rel="stylesheet" href="~/css1/theme.css">
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card shadow">
+                <div class="card-header text-center bg-primary text-white">
+                    <h4>Register</h4>
+                </div>
+                <div class="card-body">
+<form asp-action="Register" method="post">
+                        <div class="mb-3">
+                            <label class="form-label">Usuario:</label>
+                            <input asp-for="Username" class="form-control" />
+    </div>
+                        <div class="mb-3">
+                            
+                            <label class="form-label">Contraseña:</label>
+                            <input asp-for="Password" type="password" class="form-control"  />
+    </div>
+    <div class="mb-3">
+        <label asp-for="Rol" class="form-label">Nivel Acceso:</label>
+        <select asp-for="Rol" class="form-Select">
+            <option value="">selecciona una opcion </option>
+            <option value="Admin">Admin</option>
+            <option value="Profesor">Profesor </option>
+            <option value="Estudiante">Estudiante </option>
+        </select>
+                            <div>
+                                <label class="form-label">Código de acceso</label>
+                                <input asp-for="RolCode" />
+                            </div>
+
+        </div>
+   
+                        <div class="d-grid gap-2">
+                            <button type="submit" class="btn btn-success">Registrarse</button>
+                        </div>
+                        <div class="mt-3 text-center">
+                            <a asp-action="Login">¿Already have an account? Sign in</a>
+                        </div>
+</form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+

@@ -1,0 +1,393 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\proyectoTwo.bundle.scp.css",
+      "PackagePath": "staticwebassets\\proyectoTwo.1yowxlp04p.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\Video\\mp4\\Semana 02 - Introduction to Entity Framework (Models) [PT. 1].mkv",
+      "PackagePath": "staticwebassets\\Video\\mp4\\Semana 02 - Introduction to Entity Framework (Models) [PT. 1].mkv"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\css1\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css1\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\css1\\maicons.css",
+      "PackagePath": "staticwebassets\\css1\\maicons.css"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\css1\\theme.css",
+      "PackagePath": "staticwebassets\\css1\\theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\fonts\\maicons.eot",
+      "PackagePath": "staticwebassets\\fonts\\maicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\fonts\\maicons.svg",
+      "PackagePath": "staticwebassets\\fonts\\maicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\fonts\\maicons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\maicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\fonts\\maicons.woff",
+      "PackagePath": "staticwebassets\\fonts\\maicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\img\\R.png",
+      "PackagePath": "staticwebassets\\img\\R.png"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\img\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\img\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\img\\app_store.svg",
+      "PackagePath": "staticwebassets\\img\\app_store.svg"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\img\\banner-pattern.svg",
+      "PackagePath": "staticwebassets\\img\\banner-pattern.svg"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\img\\bg-doctor.png",
+      "PackagePath": "staticwebassets\\img\\bg-doctor.png"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\img\\bg_image_1.jpg",
+      "PackagePath": "staticwebassets\\img\\bg_image_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\img\\blog\\imagen0.png",
+      "PackagePath": "staticwebassets\\img\\blog\\imagen0.png"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\img\\blog\\imagen1.png",
+      "PackagePath": "staticwebassets\\img\\blog\\imagen1.png"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\img\\blog\\imagen2.png",
+      "PackagePath": "staticwebassets\\img\\blog\\imagen2.png"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\img\\doctors\\R.png",
+      "PackagePath": "staticwebassets\\img\\doctors\\R.png"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\img\\google_play.svg",
+      "PackagePath": "staticwebassets\\img\\google_play.svg"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\img\\mobile_app.png",
+      "PackagePath": "staticwebassets\\img\\mobile_app.png"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\img\\mobile_app1.png",
+      "PackagePath": "staticwebassets\\img\\mobile_app1.png"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\img\\person\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\person\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\js1\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js1\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\js1\\google-maps.js",
+      "PackagePath": "staticwebassets\\js1\\google-maps.js"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\js1\\jquery-3.5.1.min.js",
+      "PackagePath": "staticwebassets\\js1\\jquery-3.5.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\js1\\theme.js",
+      "PackagePath": "staticwebassets\\js1\\theme.js"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\vendor\\owl-carousel\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\vendor\\owl-carousel\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\vendor\\owl-carousel\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\vendor\\owl-carousel\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\vendor\\owl-carousel\\js\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\vendor\\owl-carousel\\js\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\vendor\\owl-carousel\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\vendor\\owl-carousel\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yuko_Shiro\\source\\repos\\proyectoTwo\\proyectoTwo\\wwwroot\\vendor\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\vendor\\wow\\wow.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.proyectoTwo.props",
+      "PackagePath": "build\\proyectoTwo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.proyectoTwo.props",
+      "PackagePath": "buildMultiTargeting\\proyectoTwo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.proyectoTwo.props",
+      "PackagePath": "buildTransitive\\proyectoTwo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.proyectoTwo.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.proyectoTwo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

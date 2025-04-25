@@ -1,0 +1,39 @@
+﻿@model List<Application.ViewModels.ProductViewModel>
+@{
+    ViewData["Title"] = "Home Page";
+}
+<link rel="stylesheet" href="~/css1/theme.css">
+<div class="container-fluid">
+  
+   
+    <div class="row">
+    @if (Model == null || !Model.Any(x => x.CategoryId == 5))
+    {
+            <h2>No hay contenido en esta categoría</h2>
+    }
+    else
+    {
+        @foreach (var item in Model.Where(x => x.CategoryId == 5))
+        {
+            <div class="col-md-4" bis_skin_checked="1">
+                <div class="card mb-4 box-shadow" bis_skin_checked="1">
+                        <video class="bd-placeholder-img card-img-top img-product-size" controls>
+                            <source src="@item.ImagePath" type="video/mp4">
+                            Tu navegador no soporta el video.
+                        </video>
+                    <div class="card-body" bis_skin_checked="1">
+                        <div class="card-body">
+                            <h4>@item.Name</h4>
+                            <p class="card-text">@item.Descripcion</p>
+                            <div class="d-flex justify-content-between align-items-center">
+                   
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                
+        }
+    }
+</div>
+</div>

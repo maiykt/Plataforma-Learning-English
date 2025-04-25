@@ -1,0 +1,92 @@
+﻿
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - LEARNING ENGLISH</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Login.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+  
+
+</head>
+
+<body>
+    <div class="wrapper">
+    <main class="content">
+    <header>
+   
+      
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm bg-primary navbar-light  border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand text-white fw-bold" asp-area="" asp-controller="Home" asp-action="Index">LEARNING ENGLISH</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                            <ul class="navbar-nav flex-grow-1" style="margin-left: 180px;">
+                        <li class="nav-item">
+
+                                    @{
+                                        var userRol = Context.Session.GetString("userRol ");
+                                    }
+
+
+                                    @if (userRol != "Admin")
+                                    {
+                                           <a class="nav-link text-white fw-bold" asp-area="" asp-controller="Product" asp-action="Index">AGREGAR CLASES</a>
+                                    }
+                   
+                        </li>
+                          <li class="nav-item">
+                            <a class="nav-link text-white fw-bold" asp-area="" asp-controller="Level" asp-action="Index">BEGINNING</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white fw-bold" asp-area="" asp-controller="Level" asp-action="Intermediate">INTERMEDIATE</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white fw-bold" asp-area="" asp-controller="Level" asp-action="Advanced">ADVANCED</a>
+                        </li>
+
+                                <li class="nav-item" >
+                                        <a class="nav-link text-white fw-bold" asp-controller="Login" asp-action="Login">LOGIN</a>
+                                    </li>
+                                </ul>
+                               
+                 
+                </div>
+            </div>
+        </nav>
+                
+    </header>
+    <div class="container" >
+               
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    @RenderBody()
+    </main>
+    </div>
+    <footer class="footer">
+        <p class="float-end"><a href="#">Back to top</a></p>
+        <p> &copy; 2025 - LEARNING ENGLIS·  <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+    </footer>
+   
+  
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+
+</body>
+</html>

@@ -1,0 +1,15 @@
+C:\Users\Yuko_Shiro\source\repos\proyectoTwo\Application\bin\Debug\net8.0\Application.deps.json
+C:\Users\Yuko_Shiro\source\repos\proyectoTwo\Application\bin\Debug\net8.0\Application.dll
+C:\Users\Yuko_Shiro\source\repos\proyectoTwo\Application\bin\Debug\net8.0\Application.pdb
+C:\Users\Yuko_Shiro\source\repos\proyectoTwo\Application\bin\Debug\net8.0\Database.dll
+C:\Users\Yuko_Shiro\source\repos\proyectoTwo\Application\bin\Debug\net8.0\Database.pdb
+C:\Users\Yuko_Shiro\source\repos\proyectoTwo\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Users\Yuko_Shiro\source\repos\proyectoTwo\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yuko_Shiro\source\repos\proyectoTwo\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\Yuko_Shiro\source\repos\proyectoTwo\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\Yuko_Shiro\source\repos\proyectoTwo\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\Yuko_Shiro\source\repos\proyectoTwo\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\Users\Yuko_Shiro\source\repos\proyectoTwo\Application\obj\Debug\net8.0\Application.dll
+C:\Users\Yuko_Shiro\source\repos\proyectoTwo\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Users\Yuko_Shiro\source\repos\proyectoTwo\Application\obj\Debug\net8.0\Application.pdb
+C:\Users\Yuko_Shiro\source\repos\proyectoTwo\Application\obj\Debug\net8.0\ref\Application.dll

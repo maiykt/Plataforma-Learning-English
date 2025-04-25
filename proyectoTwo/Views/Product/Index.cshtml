@@ -1,0 +1,54 @@
+﻿@model List<Application.ViewModels.ProductViewModel>
+@{
+    ViewData["Title"] = "Product Page";
+}
+
+
+<link rel="stylesheet" href="~/css1/theme.css">
+<div class="container-fluid">
+
+    <div class="row mb-3">
+        <div class="col-3 offset-9">
+         <a asp-controller="Product" asp-action="Create" class="btn btn-outline-success">Crear Una Nueva Clase</a>
+ 
+         </div>
+    </div>
+    <div class="row">
+
+    @if (Model == null || Model.Count == 0)
+    {
+        <h2>No hay Contenido </h2>
+    }
+    else
+    {
+        @foreach (Application.ViewModels.ProductViewModel item in Model)
+        {
+            
+                <div class="col-md-4" bis_skin_checked="1">
+                    <div class="card mb-4 box-shadow" bis_skin_checked="1">
+                        <video class="bd-placeholder-img card-img-top img-product-size" controls>
+                            <source src="@item.ImagePath" type="video/mp4">
+                            Tu navegador no soporta el video.
+                        </video>
+                        <div class="card-body" bis_skin_checked="1">
+                            <h4>@item.Name</h4>
+                            <p class="card-text">@item.Descripcion</p>
+                        
+                            <div class="d-flex justify-content-between align-items-center" bis_skin_checked="1">
+                                <div class="btn-group">
+                                    <a asp-controller="Product" asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-outline-info">Editar</a>
+                                    <a asp-controller="Product" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-outline-danger">Borrar</a>
+                                </div>
+
+                             
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+               
+           
+        }
+    }
+    </div>
+</div>

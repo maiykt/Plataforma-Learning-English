@@ -1,0 +1,69 @@
+﻿@model Application.ViewModels.SaveProductViewModel
+@{
+    bool editMode = Model.Id == 0 ? false : true;
+    ViewData["Title"] = "Guardar Clase";
+}
+
+
+
+
+<link rel="stylesheet" href="~/css1/theme.css">
+<div class="container-fluid">
+    <div class="row">
+
+        <div class="col-6 offset-3">
+
+            <div class="card">
+
+                <div class="card-header bg-dark text-light">
+                    <h4>@(editMode ? $"Editando la clase : {Model.Name}" : "Creando una nueva clase")</h4>
+                    <div class="card-body">
+                        <form method="post" asp-controller="Product" asp-action="@(editMode ? "Edit":"Create")">
+                            <div class="mb-3">
+                                <label asp-for="Name" class="form-label">Nombre:</label>
+                                <input type="text" asp-for="Name" class="form-control" />
+                                <span asp-Validation-for="Name" class="text-danger"></span>
+                            </div>
+                            <div class="mb-3">
+                                <label asp-for="Descripcion" class="form-label">Descripcion:</label>
+                                <input type="text" asp-for="Descripcion" class="form-control" />
+
+                            </div>
+
+                            <div class="mb-3">
+                                <label asp-for="ImagePath" class="form-label">Url del video:</label>
+                                <input type="text" asp-for="ImagePath" class="form-control" />
+
+                            </div>
+
+                            
+                            <div class="mb-3">
+                                <label asp-for="CategoryId" class="form-label">Nivel:</label>
+                                <select asp-for="CategoryId" class="form-Select">
+                                    <option value="">selecciona una opcion </option>
+                                    <option value="1">Beginning</option>
+                                    <option value="2">Intermediate </option>
+                                    <option value="5">Advanced </option>
+                                </select>
+
+                                <span asp-Validation-for="CategoryId" class="text-danger"></span>
+                            </div>
+
+
+
+                            <input type="hidden" asp-for="Id" />
+                            <button type="submit" class="btn btn-primary">Guardar</button>
+                            <a asp-controller="Product" asp-action="Index" class="btn btn-warning">Volver atras</a>
+                        </form>
+
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+
+</div>
